@@ -4,7 +4,8 @@ public class Basic1 {
         x = 123; // assignment
 
         int y = 321; //initialization
-        System.out.println("My Numbers is: "+x+" "+y);
+
+        System.out.println("My Numbers is: " + x + " " + y);
         double z = 3.14;
         float k = 3.1444f;
 
