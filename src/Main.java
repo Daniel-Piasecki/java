@@ -5,5 +5,6 @@ public class Main {
         Basic.test();
         Basic1.test();
         Basic2.test();
+        Basic3.test();
     }
 }
