@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Basic.test();
         Basic1.test();
+        Basic2.test();
     }
 }
