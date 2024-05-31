@@ -12,5 +12,7 @@ public class Main {
         //Basic5.test();
         System.out.println("--------------");
         //Basic6.test();
+        System.out.println("--------------");
+        Basic7.test();
     }
 }
