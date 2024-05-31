@@ -16,5 +16,7 @@ public class Main {
         Basic7.test();
         System.out.println("--------------");
         Basic8.test();
+        System.out.println("--------------");
+        Basic9.test();
     }
 }
