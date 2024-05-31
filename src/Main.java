@@ -8,5 +8,7 @@ public class Main {
         //Basic3.test();
         System.out.println("-------------");
         Basic4.test();
+        System.out.println("--------------");
+        Basic5.test();
     }
 }
