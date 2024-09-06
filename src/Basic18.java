@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Basic18 {
+ public class Basic18 {
     public static void test(){
         ArrayList<String> food = new ArrayList<String>();
         food.add("pizza");
